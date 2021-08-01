@@ -1,0 +1,36 @@
+{
+  "planets": [
+    {
+      "id": 1,
+      "title": "Planet 1"
+    },
+    {
+      "id": 2,
+      "title": "Planet 2"
+    },
+    {
+      "id": 3,
+      "title": "Planet 3"
+    },
+    {
+      "id": 4,
+      "title": "Planet 4"
+    },
+    {
+      "id": 5,
+      "title": "Planet 5"
+    },
+    {
+      "id": 6,
+      "title": "Planet 6"
+    },
+    {
+      "id": 7,
+      "title": "Planet 7"
+    },
+    {
+      "id": 8,
+      "title": "Planet 8"
+    }
+  ]
+}

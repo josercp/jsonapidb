@@ -1,6 +1,10 @@
 {
   "planets": [
     {
+      "id": 0,
+      "title": "Planet 0"
+    },
+    {
       "id": 1,
       "title": "Planet 1"
     },

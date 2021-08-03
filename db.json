@@ -9,19 +9,19 @@
     {
       "id": "1",
       "name": "Planet 1",
-      "size": "1",
+      "size": "3",
       "type": "001"
     },
     {
       "id": "2",
       "name": "Planet 2",
-      "size": "1",
+      "size": "2",
       "type": "002"
     },
     {
       "id": "3",
       "name": "Planet 3",
-      "size": "1",
+      "size": "3",
       "type": "003"
     },
     {
@@ -33,7 +33,7 @@
     {
       "id": "5",
       "name": "Planet 5",
-      "size": "1",
+      "size": "4",
       "type": "004"
     },
     {
@@ -45,25 +45,25 @@
     {
       "id": "7",
       "name": "Planet 7",
-      "size": "1",
+      "size": "5",
       "type": "001"
     },
     {
       "id": "8",
       "name": "Planet 8",
-      "size": "1",
+      "size": "2",
       "type": "002"
     },
     {
       "id": "9",
       "name": "Planet 9",
-      "size": "1",
+      "size": "3",
       "type": "002"
     },
     {
       "id": "10",
       "name": "Planet 10",
-      "size": "1",
+      "size": "2",
       "type": "004"
     }
   ]
